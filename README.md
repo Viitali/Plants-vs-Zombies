@@ -8,6 +8,7 @@ Consiste en un imitar el juego de plantas vs zombies, una vez ejecutandose se ne
 Para la correcta ejecucion es necesario introducir como datos de entrada el Level(nivel) y Seed(semilla).
 
 Level: EASY, MEDIUM , HARD , BLITZ
+
 Seed: cualquier numero entero
 
 Para ver la lista de los comandos disponibles es necesario introducir h o help en la consola.
