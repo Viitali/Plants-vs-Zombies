@@ -8,3 +8,5 @@ Level: EASY, MEDIUM , HARD , BLITZ
 Seed: cualquier numero entero
 
 Para ver la lista de los comandos disponibles es necesario introducir h o help en la consola.
+
+Para practicar antes del examen parcial de la asignatura he añadido por mi cuenta algunas plantas extra y clases intermedias de plantas
