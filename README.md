@@ -14,3 +14,20 @@ Seed: cualquier numero entero
 Para ver la lista de los comandos disponibles es necesario introducir h o help en la consola.
 
 Para practicar antes del examen parcial de la asignatura he añadido por mi cuenta algunas plantas extra y clases intermedias de plantas
+
+------------------------------------
+
+
+Programming Technology Project
+
+Language: Java
+
+This project is part of the subject of TP's 2018/2019 course. It's a game based on plants vs zombies, once executed you need to know the game's commands. For the correct execution it's necessary to enter the Level and Seed as input data.
+
+Level's avaiable: EASY, MEDIUM, HARD, BLITZ
+
+Seed: any number
+
+To see the list of available commands it's necessary to enter h or help in the console.
+
+As a practice before the exam I added some extra plants and intermediate classes of plants on my own.
